@@ -24,7 +24,7 @@ serial.serialutil.SerialException:系統找不到指定的檔案。
 
 PORT請先到裝置管理員的連接埠(COM和LPT)
 
-![image](C:\Users\Tibame\Desktop\air_PM2.5\air_PM2.5\1637160100535.jpg)
+![image](https://github.com/u3814520/air_PM2.5/blob/main/1637160100535.jpg)
 
 
 3.問題：
